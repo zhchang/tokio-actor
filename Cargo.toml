@@ -2,6 +2,11 @@
 name = "tokio-actor"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Macro based Asynchronous Actor System"
+repository = "https://github.com/zhchang/tokio-actor"
+keywords = ["actor", "tokio"]
+readme = "readme.MD"
 
 [lib]
 proc-macro = true
